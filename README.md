@@ -1,4 +1,4 @@
-##Spring Boot Projesi Kurulumu ve Temel Yapı Oluşturma :
+## Spring Boot Projesi Kurulumu ve Temel Yapı Oluşturma :
 
 - start.spring.io sitesine girdim. Java 21 sürümünde jpa, spring web, mysql Driver ve Lombok içeren paketi indirdim.
 - mysql'de ismi database olan bir veritabanı oluşturdum.
